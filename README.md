@@ -1,5 +1,5 @@
 # prjava02
-nstruccions que he utilitzat:
+Instruccions que he utilitzat:
 1.
 git checkout -b branca00 per crear una nova branca amb el nom branca00.
 git status per comprobar l'estat del projecte.
